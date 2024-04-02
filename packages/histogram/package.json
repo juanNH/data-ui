@@ -44,12 +44,12 @@
   "homepage": "https://github.com/williaster/data-ui#readme",
   "devDependencies": {
     "@data-ui/build-config": "^0.0.40",
-    "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "peerDependencies": {
-    "react": "^15.0.0-0 || ^16.0.0-0",
-    "react-dom": "^15.0.0-0 || ^16.0.0-0"
+    "react": "^17.0.0-0 || ^18.0.0-0",
+    "react-dom": "^17.0.0-0 || ^18.0.0-0"
   },
   "dependencies": {
     "@data-ui/shared": "^0.0.84",
